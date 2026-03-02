@@ -1,4 +1,4 @@
-Hi there, I'm Prosper Wapali
+**Hi there, I'm Prosper Wapali**
 
 ![Header GIF](https://media.giphy.com/media/l0ExdMHUDKteztyfe/giphy.gif)
 
@@ -57,10 +57,11 @@ Projects are built to be **fast, polished, and functional**.
 ## GitHub Stats
 
 <p>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=prosperwaps&theme=tokyonight"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=prosperwaps&theme=dracula"/>
 </p>  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prosperwaps&layout=compact&theme=tokyonight&cache_seconds=1800" height="165"/>  
-
+<p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prosperwaps&layout=compact&theme=dracula"/>  
+</p>
 ---
 
 ## Connect
