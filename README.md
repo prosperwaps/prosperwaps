@@ -56,7 +56,9 @@ Projects are built to be **fast, polished, and functional**.
 
 ## GitHub Stats
 
-![Prosper Wapali GitHub Stats](https://github-readme-stats.vercel.app/api?username=prosperwaps&show_icons=true&theme=dracula)  
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=prosperwaps&theme=tokyonight"/>
+</p>  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prosperwaps&layout=compact&theme=dracula)  
 
 ---
