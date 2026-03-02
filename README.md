@@ -1,9 +1,9 @@
 **Hi there, I'm Prosper Wapali**
-<p align="center">
+
 ![Header GIF](https://i.pinimg.com/originals/b3/85/69/b385694f382ef98190040916c0efdda1.gif)
 ![Header GIF](https://i.pinimg.com/originals/b3/85/69/b385694f382ef98190040916c0efdda1.gif)
 ![Header GIF](https://i.pinimg.com/originals/b3/85/69/b385694f382ef98190040916c0efdda1.gif)
-</p>
+
 ---
 
 ## About Me
