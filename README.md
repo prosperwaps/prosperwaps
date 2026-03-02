@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Vernyuy Jonpresley N.  
+# 👋 Hi, I'm Prosper Wapali.  
 
 ![Banner GIF](https://media.giphy.com/media/l0ExdMHUDKteztyfe/giphy.gif)
 
@@ -53,22 +53,19 @@ I'm a **teenage tech enthusiast** from Cameroon 🇨🇲, passionate about:
 - Organizes PDFs by year automatically  
 - Fast, parallel downloads, and Google Drive compatible  
 
-### Educational Mobile App
-- 📱 React Native app for **GCE past questions**  
-- AI-powered corrections and progress tracking  
-- Multiple subjects: Maths, Physics, Chemistry  
-
 ### Discord Bot
 - 🤖 Beautifies and auto-formats code snippets  
 - Terminal-style rendering for Python, JS, and more  
 
+
+Thats all...For now
 ---
 
 ## 📊 GitHub Stats
 
-![Vernyuy's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Vernyuy's GitHub stats](https://github-readme-stats.vercel.app/api?username=prosperwaps&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prosperwaps&layout=compact&theme=radical)
 
 ---
 
