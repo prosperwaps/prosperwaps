@@ -1,110 +1,84 @@
-# 👋 Hi, I'm Prosper Wapali.  
+# Prosper Wapali — Code & Projects
 
-![Banner GIF](https://media.giphy.com/media/l0ExdMHUDKteztyfe/giphy.gif)
-
----
-
-## 🌟 About Me
-
-I'm a **teenage tech enthusiast** from Cameroon 🇨🇲, passionate about:
-
-- 💻 **Web & App Development** – Python, React Native, HTML, CSS, JavaScript  
-- 📚 **EdTech Projects** – Building study apps and learning tools  
-- 🎮 **Games & Simulations** – Using Python & HTML for creative projects  
-- 🤖 **AI & Automation** – Building smart bots and tools  
+![Header GIF](https://media.giphy.com/media/l0ExdMHUDKteztyfe/giphy.gif)
 
 ---
 
-## 🚀 Tech Stack
+## About Me
 
-### Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+I'm a **developer and tech explorer** focused on building:
 
-### Backend
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+- Fast, clean web and mobile apps  
+- Automation and AI tools  
+- Study and educational apps for practical use  
 
-### Mobile
-![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Expo](https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-
-### Tools & IDEs
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
-✨ I love creating **fast, clean, and beautiful projects** with a lot of polish.
+I work with Python, React Native, and modern web technologies to craft **projects that are functional, polished, and efficient**.
 
 ---
 
-## 🔥 Projects
+## Tech Stack
+
+#### Frontend
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40"/> 
+
+#### Backend
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/> 
+
+#### Mobile
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/expo/expo-original.svg" width="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40"/> 
+
+#### Tools & IDEs
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40"/> 
+
+---
+
+## Projects
 
 ### GCE Mathematics PDF Scraper
-[![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/)
-- Scrapes **A-Level Maths past papers** from Cameroonian websites  
-- Organizes PDFs by year automatically  
-- Fast, parallel downloads, and Google Drive compatible  
+- Scrapes A-Level past papers automatically  
+- Organizes PDFs by year  
+- Handles Google Drive embeds and validates PDFs  
 
-### Discord Bot
-- 🤖 Beautifies and auto-formats code snippets  
-- Terminal-style rendering for Python, JS, and more  
+### Educational Mobile App
+- React Native app for study content  
+- AI-powered corrections and progress tracking  
+- Covers Maths, Physics, Chemistry  
 
-
-Thats all...For now
----
-
-## 📊 GitHub Stats
-
-![Vernyuy's GitHub stats](https://github-readme-stats.vercel.app/api?username=prosperwaps&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prosperwaps&layout=compact&theme=radical)
+### Discord Utility Bot
+- Auto-formatting and code beautification  
+- Terminal-style rendering in Discord  
 
 ---
 
-## 🌐 Connect with Me
+## GitHub Stats
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:yourmail@gmail.com)  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)  
-
----
-
-## 🎵 Fun Fact
-
-I love **coding with music on**, especially 🎶 Lo-fi beats & Hip-Hop instrumentals.  
-
-![Lo-fi Coding](https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif)
+![Prosper Wapali GitHub Stats](https://github-readme-stats.vercel.app/api?username=prosperwaps&show_icons=true&theme=dracula)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prosperwaps&layout=compact&theme=dracula)  
 
 ---
 
-## 💡 Quote
+## Connect
 
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House  
+[LinkedIn](https://linkedin.com/in/yourprofile) • [Twitter](https://twitter.com/yourhandle) • [Gmail](mailto:yourmail@gmail.com)
 
 ---
 
-✨ Thanks for visiting my profile! Let's build **amazing things together**. 💻🌍  
-## Hi there 👋
+## Visual Notes
 
-<!--
-**prosperwaps/prosperwaps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Anime Coding](https://media.giphy.com/media/3o6gE5aY1W0SCZrHNa/giphy.gif)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*All projects are actively maintained and designed for functionality and polish.*
