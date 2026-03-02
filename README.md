@@ -1,6 +1,5 @@
 # 👋 Hi there, I'm **Prosper Wapali**
 
-![Header GIF](https://i.pinimg.com/originals/8e/8f/2c/8e8f2c1229d5db06f13e23619589cd95.gif)
 ![Header GIF](https://i.pinimg.com/originals/b3/85/69/b385694f382ef98190040916c0efdda1.gif)
 
 ---
