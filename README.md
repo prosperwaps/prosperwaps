@@ -12,8 +12,8 @@
 
 I build projects that are:
 
-✨ Fast  
-🎯 Functional  
+✨ Cool  
+🎯 Useful 
 🎨 Clean & polished  
 
 ---
@@ -44,18 +44,13 @@ I build projects that are:
 ## 📂 Projects
 
 ### 📘 GCE Mathematics PDF Scraper
-⚙️ Scrapes A-Level past papers automatically  
-📁 Organizes PDFs by year  
-🔗 Handles Google Drive embeds & validates PDFs  
-
-### 📱 Educational Mobile App
-📚 React Native study platform  
-🤖 AI-powered corrections & progress tracking  
-🧪 Maths • Physics • Chemistry  
-
+- Scrapes A-Level past papers automatically
+- Organizes PDFs by year  
+- Handles Google Drive embeds & validates PDFs  
+  
 ### 🤖 Discord Utility Bot
-💻 Auto-formats and beautifies code  
-🖥️ Terminal-style rendering inside Discord  
+- Auto-formats and beautifies code  
+- Terminal-style rendering inside Discord  
 
 ---
 
@@ -63,10 +58,6 @@ I build projects that are:
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=prosperwaps&theme=dracula"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prosperwaps&theme=dracula&layout=compact"/>
 </p>
 
 ---
@@ -88,9 +79,9 @@ I build projects that are:
 </a>
 
 </p>
----
 
-## 🎴 Visual Section
+
+## 🎴 Till we code again
 
 ![Anime Coding](https://i.pinimg.com/originals/6f/1f/30/6f1f308da0d735fdabee2e3711b28bd8.gif)
 
