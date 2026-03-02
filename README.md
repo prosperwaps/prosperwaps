@@ -1,4 +1,4 @@
-# Prosper Wapali — Code & Projects
+Hi there, I'm Prosper Wapali
 
 ![Header GIF](https://media.giphy.com/media/l0ExdMHUDKteztyfe/giphy.gif)
 
@@ -56,10 +56,10 @@ Projects are built to be **fast, polished, and functional**.
 
 ## GitHub Stats
 
-<p align="center">
+<p>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=prosperwaps&theme=tokyonight"/>
 </p>  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prosperwaps&layout=compact&theme=dracula)  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prosperwaps&layout=compact&theme=tokyonight&cache_seconds=1800" height="165"/>  
 
 ---
 
