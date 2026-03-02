@@ -73,15 +73,26 @@ I build projects that are:
 
 ## 🌐 Connect
 
-💼 [LinkedIn](https://linkedin.com/in/yourprofile)  
-🐦 [Twitter](https://twitter.com/yourhandle)  
-📧 [Email](mailto:prosperwapswork@gmail.com)
+<p align="center">
 
+<a href="https://linkedin.com/in/yourprofile">
+  <img src="https://img.shields.io/badge/LinkedIn-Prosper%20Wapali-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://twitter.com/yourhandle">
+  <img src="https://img.shields.io/badge/Twitter-@prosperwaps-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+</a>
+
+<a href="mailto:prosperwapswork@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
 ---
 
 ## 🎴 Visual Section
 
-![Anime Coding](https://media.giphy.com/media/3o6gE5aY1W0SCZrHNa/giphy.gif)
+![Anime Coding](https://i.pinimg.com/originals/6f/1f/30/6f1f308da0d735fdabee2e3711b28bd8.gif)
 
 ---
 
