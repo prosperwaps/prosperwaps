@@ -60,11 +60,14 @@ src="https://img.shields.io/github/followers/prosperwaps?logo=github&style=for-t
 
 ---
 
-### Badges
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=prosperwaps&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=prosperwaps&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=prosperwaps&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-<b>My GitHub Stats</b>
+🔝 Top Contributed Repo
 
-<a href="http://www.github.com/prosperwaps"><img src="https://github-readme-streak-stats.herokuapp.com/?user=prosperwaps&stroke=ffffff&background=1c1917&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+![](https://github-contributor-stats.vercel.app/api?username=prosperwaps&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 ## 🎴 Till we code again
