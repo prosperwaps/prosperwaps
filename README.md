@@ -60,13 +60,13 @@ Projects are built to be **fast, polished, and functional**.
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=prosperwaps&theme=dracula"/>
 </p>  
 <p>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prosperwaps&layout=compact&theme=dracula"/>  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prosperwaps&theme=dracula"/>  
 </p>
 ---
 
 ## Connect
 
-[LinkedIn](https://linkedin.com/in/yourprofile) • [Twitter](https://twitter.com/yourhandle) • [Gmail](mailto:yourmail@gmail.com)
+[LinkedIn](https://linkedin.com/in/yourprofile) • [Twitter](https://twitter.com/yourhandle) • [Gmail](mailto:prosperwapswork@gmail.com)
 
 ---
 
