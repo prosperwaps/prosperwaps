@@ -1,4 +1,4 @@
-markdown_content = """# Prosper Wapali
+# Prosper Wapali
 
 ---
 
@@ -66,9 +66,3 @@ Until the next unhandled exception.
 
 *Writing code. Fixing bugs. Shipping anyway.*
 """
-
-filename = "README.md"
-with open(filename, "w", encoding="utf-8") as f:
-    f.write(markdown_content)
-
-print(f"File saved successfully as {filename}")
